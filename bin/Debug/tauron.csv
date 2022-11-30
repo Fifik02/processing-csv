@@ -1,0 +1,186 @@
+DATA_ODCZYTU;ZUZYCIE_BIEZACE;JEDNOSTKA;DATA_POPRZEDNIEGO_ODCZYTU;ODCZYT_BIEZACY;ODCZYT_POPRZEDNI;STREFA_EC;ADRES_PPE;TYP_ODCZYTU;NUMER_LICZNIKA;PUNKT_POBORU;SKLADNIK
+15.04.2022;4;kVarh;09.02.2022;45 kVarh;41 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 64,  33-300 NOWY S¥CZ;Odczyt systemowy;70128867;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;6;kVarh;09.02.2022;56 kVarh;50 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 58, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70301242;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;0;kVarh;09.02.2022;16 kVarh;16 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 66D,  33-300 NOWY S¥CZ;Odczyt systemowy;70128871;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;33;kVarh;09.02.2022;255 kVarh;222 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 54B,  33-300 NOWY S¥CZ;Odczyt systemowy;70178620;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;0;kVarh;09.02.2022;5 kVarh;5 kVarh;I;  BATALIONÓW CH£OPSKICH 18,  33-300 NOWY S¥CZ;Odczyt systemowy;70301206;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;5;kVarh;09.02.2022;53 kVarh;48 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 62,  33-300 NOWY S¥CZ;Odczyt systemowy;70286518;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;0;kVarh;10.02.2022;26 kVarh;26 kVarh;I; CHRUŒLICKA 6,  33-300 NOWY S¥CZ;Odczyt systemowy;70128754;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;0;kVarh;09.02.2022;12 kVarh;12 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 60D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178622;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;45;kVarh;09.02.2022;296 kVarh;251 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 56D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178654;5,90322E+17;Energia bierna indukcyjna strefa I
+15.04.2022;12;kVarh;09.02.2022;155 kVarh;143 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 64,  33-300 NOWY S¥CZ;Odczyt systemowy;70128867;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;16;kVarh;09.02.2022;186 kVarh;170 kVarh;II;MJR. HENRYKA SUCHARSKIEGO 58, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70301242;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;0;kVarh;09.02.2022;77 kVarh;77 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 66D,  33-300 NOWY S¥CZ;Odczyt systemowy;70128871;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;89;kVarh;09.02.2022;748 kVarh;659 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 54B,  33-300 NOWY S¥CZ;Odczyt systemowy;70178620;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;0;kVarh;09.02.2022;15 kVarh;15 kVarh;II;  BATALIONÓW CH£OPSKICH 18,  33-300 NOWY S¥CZ;Odczyt systemowy;70301206;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;13;kVarh;09.02.2022;181 kVarh;168 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 62,  33-300 NOWY S¥CZ;Odczyt systemowy;70286518;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;0;kVarh;10.02.2022;115 kVarh;115 kVarh;II; CHRUŒLICKA 6,  33-300 NOWY S¥CZ;Odczyt systemowy;70128754;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;0;kVarh;09.02.2022;59 kVarh;59 kVarh;II;MJR. HENRYKA SUCHARSKIEGO 60D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178622;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;121;kVarh;09.02.2022;918 kVarh;797 kVarh;II;MJR. HENRYKA SUCHARSKIEGO 56D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178654;5,90322E+17;Energia bierna indukcyjna strefa II
+15.04.2022;0;kVarh;09.02.2022;4 kVarh;4 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 64,  33-300 NOWY S¥CZ;Odczyt systemowy;70128867;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;0;kVarh;09.02.2022;1 kVarh;1 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 58, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70301242;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;74;kVarh;09.02.2022;596 kVarh;522 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 66D,  33-300 NOWY S¥CZ;Odczyt systemowy;70128871;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;0;kVarh;09.02.2022;1 kVarh;1 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 54B,  33-300 NOWY S¥CZ;Odczyt systemowy;70178620;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;38;kVarh;09.02.2022;234 kVarh;196 kVarh;I;  BATALIONÓW CH£OPSKICH 18,  33-300 NOWY S¥CZ;Odczyt systemowy;70301206;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;0;kVarh;09.02.2022;1 kVarh;1 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 62,  33-300 NOWY S¥CZ;Odczyt systemowy;70286518;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;0;kVarh;10.02.2022;133 kVarh;133 kVarh;I; CHRUŒLICKA 6,  33-300 NOWY S¥CZ;Odczyt systemowy;70128754;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;60;kVarh;09.02.2022;507 kVarh;447 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 60D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178622;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;MJR. HENRYKA SUCHARSKIEGO 56D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178654;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+15.04.2022;44;kWh;09.02.2022;382 kWh;338 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 64,  33-300 NOWY S¥CZ;Odczyt systemowy;70128867;5,90322E+17;Energia czynna strefa I
+15.04.2022;47;kWh;09.02.2022;414 kWh;367 kWh;I;MJR. HENRYKA SUCHARSKIEGO 58, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70301242;5,90322E+17;Energia czynna strefa I
+15.04.2022;45;kWh;09.02.2022;402 kWh;357 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 66D,  33-300 NOWY S¥CZ;Odczyt systemowy;70128871;5,90322E+17;Energia czynna strefa I
+15.04.2022;134;kWh;09.02.2022;1094 kWh;960 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 54B,  33-300 NOWY S¥CZ;Odczyt systemowy;70178620;5,90322E+17;Energia czynna strefa I
+15.04.2022;11;kWh;09.02.2022;126 kWh;115 kWh;I;  BATALIONÓW CH£OPSKICH 18,  33-300 NOWY S¥CZ;Odczyt systemowy;70301206;5,90322E+17;Energia czynna strefa I
+15.04.2022;53;kWh;09.02.2022;444 kWh;391 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 62,  33-300 NOWY S¥CZ;Odczyt systemowy;70286518;5,90322E+17;Energia czynna strefa I
+15.04.2022;83;kWh;10.02.2022;622 kWh;539 kWh;I; CHRUŒLICKA 6,  33-300 NOWY S¥CZ;Odczyt systemowy;70128754;5,90322E+17;Energia czynna strefa I
+15.04.2022;43;kWh;09.02.2022;377 kWh;334 kWh;I;MJR. HENRYKA SUCHARSKIEGO 60D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178622;5,90322E+17;Energia czynna strefa I
+15.04.2022;116;kWh;09.02.2022;926 kWh;810 kWh;I;MJR. HENRYKA SUCHARSKIEGO 56D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178654;5,90322E+17;Energia czynna strefa I
+15.04.2022;122;kWh;09.02.2022;1166 kWh;1044 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 64,  33-300 NOWY S¥CZ;Odczyt systemowy;70128867;5,90322E+17;Energia czynna strefa II
+15.04.2022;127;kWh;09.02.2022;1259 kWh;1132 kWh;II;MJR. HENRYKA SUCHARSKIEGO 58, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70301242;5,90322E+17;Energia czynna strefa II
+15.04.2022;121;kWh;09.02.2022;1250 kWh;1129 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 66D,  33-300 NOWY S¥CZ;Odczyt systemowy;70128871;5,90322E+17;Energia czynna strefa II
+15.04.2022;367;kWh;09.02.2022;3341 kWh;2974 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 54B,  33-300 NOWY S¥CZ;Odczyt systemowy;70178620;5,90322E+17;Energia czynna strefa II
+15.04.2022;30;kWh;09.02.2022;353 kWh;323 kWh;II;  BATALIONÓW CH£OPSKICH 18,  33-300 NOWY S¥CZ;Odczyt systemowy;70301206;5,90322E+17;Energia czynna strefa II
+15.04.2022;151;kWh;09.02.2022;1358 kWh;1207 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 62,  33-300 NOWY S¥CZ;Odczyt systemowy;70286518;5,90322E+17;Energia czynna strefa II
+15.04.2022;201;kWh;10.02.2022;1801 kWh;1600 kWh;II; CHRUŒLICKA 6,  33-300 NOWY S¥CZ;Odczyt systemowy;70128754;5,90322E+17;Energia czynna strefa II
+15.04.2022;116;kWh;09.02.2022;1181 kWh;1065 kWh;II;MJR. HENRYKA SUCHARSKIEGO 60D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178622;5,90322E+17;Energia czynna strefa II
+15.04.2022;314;kWh;09.02.2022;2822 kWh;2508 kWh;II;MJR. HENRYKA SUCHARSKIEGO 56D, NOWY S¥CZ 33-300 Nowy S¹cz;Odczyt systemowy;70178654;5,90322E+17;Energia czynna strefa II
+09.04.2022;4;kVarh;09.02.2022;43 kVarh;39 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 11AB,  33-300 NOWY S¥CZ;Odczyt systemowy;70180582;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;2;kVarh;09.02.2022;41 kVarh;39 kVarh;I;  BATALIONÓW CH£OPSKICH 12,  33-300 NOWY S¥CZ;Odczyt systemowy;70301251;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;4;kVarh;09.02.2022;39 kVarh;35 kVarh;I;  BATALIONÓW CH£OPSKICH 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70301247;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;37;kVarh;09.02.2022;316 kVarh;279 kVarh;I;  PARTYZANTÓW 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180767;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;37;kVarh;09.02.2022;316 kVarh;279 kVarh;I;  MJR. HUBALA 1B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180757;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;32;kVarh;09.02.2022;284 kVarh;252 kVarh;I;  MJR. HUBALA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180574;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;40;kVarh;09.02.2022;325 kVarh;285 kVarh;I;  PARTYZANTÓW 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180573;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;4;kVarh;09.02.2022;44 kVarh;40 kVarh;I;  PARTYZANTÓW 3,  33-300 NOWY S¥CZ;Odczyt systemowy;70180772;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;36;kVarh;09.02.2022;314 kVarh;278 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 1,  33-300 NOWY S¥CZ;Odczyt systemowy;70180770;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;35;kVarh;09.02.2022;305 kVarh;270 kVarh;I;  PARTYZANTÓW 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70180746;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;0;kVarh;09.02.2022;179 kVarh;179 kVarh;I;  WESTERPLATTE 48,  33-300 NOWY S¥CZ;Odczyt systemowy;92385158;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;36;kVarh;09.02.2022;311 kVarh;275 kVarh;I;  MJR. HUBALA 2D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180768;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;40;kVarh;09.02.2022;348 kVarh;308 kVarh;I;BARSKA 12D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180576;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;39;kVarh;09.02.2022;332 kVarh;293 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 19,  33-300 NOWY S¥CZ;Odczyt systemowy;70180581;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;4;kVarh;09.02.2022;38 kVarh;34 kVarh;I;BARSKA 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180753;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;3;kVarh;09.02.2022;32 kVarh;29 kVarh;I;  MJR. HUBALA 4,  33-300 NOWY S¥CZ;Odczyt systemowy;70180738;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;11;kVarh;09.02.2022;85 kVarh;74 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 44D,  33-300 NOWY S¥CZ;Odczyt systemowy;70178748;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;41;kVarh;09.02.2022;360 kVarh;319 kVarh;I;  MJR. HUBALA 3B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180577;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;5;kVarh;09.02.2022;57 kVarh;52 kVarh;I;BARSKA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180575;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;38;kVarh;09.02.2022;328 kVarh;290 kVarh;I;  MJR. HUBALA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180583;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;7;kVarh;09.02.2022;51 kVarh;44 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 15B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180578;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;7;kVarh;09.02.2022;441 kVarh;434 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 23,  33-300 NOWY S¥CZ;Odczyt systemowy;95443960;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;6;kVarh;09.02.2022;55 kVarh;49 kVarh;I;  MJR. HUBALA 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180741;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;41;kVarh;09.02.2022;292 kVarh;251 kVarh;I;  MJR. HUBALA 5D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180740;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 46,  33-300 NOWY S¥CZ;Odczyt systemowy;2040482;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;5;kVarh;09.02.2022;45 kVarh;40 kVarh;I;BARSKA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180758;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;14;kVarh;09.02.2022;88 kVarh;74 kVarh;I;  BATALIONÓW CH£OPSKICH 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70301246;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;5;kVarh;09.02.2022;46 kVarh;41 kVarh;I;  BATALIONÓW CH£OPSKICH 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70178616;5,90322E+17;Energia bierna indukcyjna strefa I
+09.04.2022;10;kVarh;09.02.2022;145 kVarh;135 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 11AB,  33-300 NOWY S¥CZ;Odczyt systemowy;70180582;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;5;kVarh;09.02.2022;147 kVarh;142 kVarh;II;  BATALIONÓW CH£OPSKICH 12,  33-300 NOWY S¥CZ;Odczyt systemowy;70301251;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;11;kVarh;09.02.2022;134 kVarh;123 kVarh;II;  BATALIONÓW CH£OPSKICH 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70301247;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;93;kVarh;09.02.2022;958 kVarh;865 kVarh;II;  PARTYZANTÓW 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180767;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;93;kVarh;09.02.2022;953 kVarh;860 kVarh;II;  MJR. HUBALA 1B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180757;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;81;kVarh;09.02.2022;846 kVarh;765 kVarh;II;  MJR. HUBALA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180574;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;100;kVarh;09.02.2022;973 kVarh;873 kVarh;II;  PARTYZANTÓW 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180573;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;11;kVarh;09.02.2022;148 kVarh;137 kVarh;II;  PARTYZANTÓW 3,  33-300 NOWY S¥CZ;Odczyt systemowy;70180772;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;93;kVarh;09.02.2022;949 kVarh;856 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 1,  33-300 NOWY S¥CZ;Odczyt systemowy;70180770;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;88;kVarh;09.02.2022;924 kVarh;836 kVarh;II;  PARTYZANTÓW 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70180746;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;0;kVarh;09.02.2022;313 kVarh;313 kVarh;II;  WESTERPLATTE 48,  33-300 NOWY S¥CZ;Odczyt systemowy;92385158;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;93;kVarh;09.02.2022;947 kVarh;854 kVarh;II;  MJR. HUBALA 2D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180768;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;101;kVarh;09.02.2022;1056 kVarh;955 kVarh;II;BARSKA 12D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180576;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;100;kVarh;09.02.2022;1005 kVarh;905 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 19,  33-300 NOWY S¥CZ;Odczyt systemowy;70180581;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;10;kVarh;09.02.2022;126 kVarh;116 kVarh;II;BARSKA 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180753;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;7;kVarh;09.02.2022;111 kVarh;104 kVarh;II;  MJR. HUBALA 4,  33-300 NOWY S¥CZ;Odczyt systemowy;70180738;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;26;kVarh;09.02.2022;255 kVarh;229 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 44D,  33-300 NOWY S¥CZ;Odczyt systemowy;70178748;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;107;kVarh;09.02.2022;1090 kVarh;983 kVarh;II;  MJR. HUBALA 3B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180577;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;14;kVarh;09.02.2022;187 kVarh;173 kVarh;II;BARSKA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180575;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;96;kVarh;09.02.2022;988 kVarh;892 kVarh;II;  MJR. HUBALA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180583;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;18;kVarh;09.02.2022;162 kVarh;144 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 15B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180578;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;19;kVarh;09.02.2022;151 kVarh;132 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 23,  33-300 NOWY S¥CZ;Odczyt systemowy;95443960;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;14;kVarh;09.02.2022;183 kVarh;169 kVarh;II;  MJR. HUBALA 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180741;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;105;kVarh;09.02.2022;921 kVarh;816 kVarh;II;  MJR. HUBALA 5D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180740;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 46,  33-300 NOWY S¥CZ;Odczyt systemowy;2040482;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;11;kVarh;09.02.2022;150 kVarh;139 kVarh;II;BARSKA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180758;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;36;kVarh;09.02.2022;263 kVarh;227 kVarh;II;  BATALIONÓW CH£OPSKICH 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70301246;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;12;kVarh;09.02.2022;154 kVarh;142 kVarh;II;  BATALIONÓW CH£OPSKICH 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70178616;5,90322E+17;Energia bierna indukcyjna strefa II
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 11AB,  33-300 NOWY S¥CZ;Odczyt systemowy;70180582;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  BATALIONÓW CH£OPSKICH 12,  33-300 NOWY S¥CZ;Odczyt systemowy;70301251;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  BATALIONÓW CH£OPSKICH 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70301247;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  PARTYZANTÓW 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180767;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 1B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180757;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180574;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  PARTYZANTÓW 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180573;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  PARTYZANTÓW 3,  33-300 NOWY S¥CZ;Odczyt systemowy;70180772;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 1,  33-300 NOWY S¥CZ;Odczyt systemowy;70180770;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  PARTYZANTÓW 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70180746;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;5;kVarh;09.02.2022;987 kVarh;982 kVarh;I;  WESTERPLATTE 48,  33-300 NOWY S¥CZ;Odczyt systemowy;92385158;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;3 kVarh;3 kVarh;I;  MJR. HUBALA 2D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180768;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;BARSKA 12D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180576;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 19,  33-300 NOWY S¥CZ;Odczyt systemowy;70180581;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;BARSKA 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180753;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 4,  33-300 NOWY S¥CZ;Odczyt systemowy;70180738;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 44D,  33-300 NOWY S¥CZ;Odczyt systemowy;70178748;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 3B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180577;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;BARSKA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180575;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180583;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;1 kVarh;1 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 15B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180578;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;50 kVarh;50 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 23,  33-300 NOWY S¥CZ;Odczyt systemowy;95443960;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  MJR. HUBALA 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180741;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;3 kVarh;3 kVarh;I;  MJR. HUBALA 5D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180740;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 46,  33-300 NOWY S¥CZ;Odczyt systemowy;2040482;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;1 kVarh;1 kVarh;I;BARSKA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180758;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  BATALIONÓW CH£OPSKICH 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70301246;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;0;kVarh;09.02.2022;0 kVarh;0 kVarh;I;  BATALIONÓW CH£OPSKICH 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70178616;5,90322E+17;Energia bierna pojemnoœciowa ca³odobowa
+09.04.2022;43;kWh;09.02.2022;366 kWh;323 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 11AB,  33-300 NOWY S¥CZ;Odczyt systemowy;70180582;5,90322E+17;Energia czynna strefa I
+09.04.2022;51;kWh;09.02.2022;409 kWh;358 kWh;I;  BATALIONÓW CH£OPSKICH 12,  33-300 NOWY S¥CZ;Odczyt systemowy;70301251;5,90322E+17;Energia czynna strefa I
+09.04.2022;44;kWh;09.02.2022;411 kWh;367 kWh;I;  BATALIONÓW CH£OPSKICH 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70301247;5,90322E+17;Energia czynna strefa I
+09.04.2022;114;kWh;09.02.2022;972 kWh;858 kWh;I;  PARTYZANTÓW 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180767;5,90322E+17;Energia czynna strefa I
+09.04.2022;109;kWh;09.02.2022;920 kWh;811 kWh;I;  MJR. HUBALA 1B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180757;5,90322E+17;Energia czynna strefa I
+09.04.2022;124;kWh;09.02.2022;1046 kWh;922 kWh;I;  MJR. HUBALA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180574;5,90322E+17;Energia czynna strefa I
+09.04.2022;113;kWh;09.02.2022;951 kWh;838 kWh;I;  PARTYZANTÓW 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180573;5,90322E+17;Energia czynna strefa I
+09.04.2022;42;kWh;09.02.2022;375 kWh;333 kWh;I;  PARTYZANTÓW 3,  33-300 NOWY S¥CZ;Odczyt systemowy;70180772;5,90322E+17;Energia czynna strefa I
+09.04.2022;116;kWh;09.02.2022;961 kWh;845 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 1,  33-300 NOWY S¥CZ;Odczyt systemowy;70180770;5,90322E+17;Energia czynna strefa I
+09.04.2022;118;kWh;09.02.2022;981 kWh;863 kWh;I;  PARTYZANTÓW 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70180746;5,90322E+17;Energia czynna strefa I
+09.04.2022;86;kWh;09.02.2022;5465 kWh;5379 kWh;I;  WESTERPLATTE 48,  33-300 NOWY S¥CZ;Odczyt systemowy;92385158;5,90322E+17;Energia czynna strefa I
+09.04.2022;108;kWh;09.02.2022;923 kWh;815 kWh;I;  MJR. HUBALA 2D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180768;5,90322E+17;Energia czynna strefa I
+09.04.2022;116;kWh;09.02.2022;992 kWh;876 kWh;I;BARSKA 12D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180576;5,90322E+17;Energia czynna strefa I
+09.04.2022;124;kWh;09.02.2022;1028 kWh;904 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 19,  33-300 NOWY S¥CZ;Odczyt systemowy;70180581;5,90322E+17;Energia czynna strefa I
+09.04.2022;40;kWh;09.02.2022;366 kWh;326 kWh;I;BARSKA 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180753;5,90322E+17;Energia czynna strefa I
+09.04.2022;42;kWh;09.02.2022;372 kWh;330 kWh;I;  MJR. HUBALA 4,  33-300 NOWY S¥CZ;Odczyt systemowy;70180738;5,90322E+17;Energia czynna strefa I
+09.04.2022;70;kWh;09.02.2022;551 kWh;481 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 44D,  33-300 NOWY S¥CZ;Odczyt systemowy;70178748;5,90322E+17;Energia czynna strefa I
+09.04.2022;110;kWh;09.02.2022;919 kWh;809 kWh;I;  MJR. HUBALA 3B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180577;5,90322E+17;Energia czynna strefa I
+09.04.2022;45;kWh;09.02.2022;408 kWh;363 kWh;I;BARSKA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180575;5,90322E+17;Energia czynna strefa I
+09.04.2022;121;kWh;09.02.2022;1011 kWh;890 kWh;I;  MJR. HUBALA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180583;5,90322E+17;Energia czynna strefa I
+09.04.2022;58;kWh;09.02.2022;504 kWh;446 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 15B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180578;5,90322E+17;Energia czynna strefa I
+09.04.2022;77;kWh;09.02.2022;1571 kWh;1494 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 23,  33-300 NOWY S¥CZ;Odczyt systemowy;95443960;5,90322E+17;Energia czynna strefa I
+09.04.2022;44;kWh;09.02.2022;396 kWh;352 kWh;I;  MJR. HUBALA 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180741;5,90322E+17;Energia czynna strefa I
+09.04.2022;134;kWh;09.02.2022;1110 kWh;976 kWh;I;  MJR. HUBALA 5D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180740;5,90322E+17;Energia czynna strefa I
+09.04.2022;45;kWh;09.02.2022;5949 kWh;5904 kWh;I;ALEJE MJR. HENRYKA SUCHARSKIEGO 46,  33-300 NOWY S¥CZ;Odczyt systemowy;2040482;5,90322E+17;Energia czynna strefa I
+09.04.2022;40;kWh;09.02.2022;371 kWh;331 kWh;I;BARSKA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180758;5,90322E+17;Energia czynna strefa I
+09.04.2022;69;kWh;09.02.2022;618 kWh;549 kWh;I;  BATALIONÓW CH£OPSKICH 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70301246;5,90322E+17;Energia czynna strefa I
+09.04.2022;41;kWh;09.02.2022;380 kWh;339 kWh;I;  BATALIONÓW CH£OPSKICH 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70178616;5,90322E+17;Energia czynna strefa I
+09.04.2022;112;kWh;09.02.2022;1095 kWh;983 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 11AB,  33-300 NOWY S¥CZ;Odczyt systemowy;70180582;5,90322E+17;Energia czynna strefa II
+09.04.2022;132;kWh;09.02.2022;1234 kWh;1102 kWh;II;  BATALIONÓW CH£OPSKICH 12,  33-300 NOWY S¥CZ;Odczyt systemowy;70301251;5,90322E+17;Energia czynna strefa II
+09.04.2022;115;kWh;09.02.2022;1244 kWh;1129 kWh;II;  BATALIONÓW CH£OPSKICH 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70301247;5,90322E+17;Energia czynna strefa II
+09.04.2022;296;kWh;09.02.2022;2933 kWh;2637 kWh;II;  PARTYZANTÓW 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180767;5,90322E+17;Energia czynna strefa II
+09.04.2022;281;kWh;09.02.2022;2737 kWh;2456 kWh;II;  MJR. HUBALA 1B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180757;5,90322E+17;Energia czynna strefa II
+09.04.2022;321;kWh;09.02.2022;3103 kWh;2782 kWh;II;  MJR. HUBALA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180574;5,90322E+17;Energia czynna strefa II
+09.04.2022;294;kWh;09.02.2022;2841 kWh;2547 kWh;II;  PARTYZANTÓW 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180573;5,90322E+17;Energia czynna strefa II
+09.04.2022;109;kWh;09.02.2022;1112 kWh;1003 kWh;II;  PARTYZANTÓW 3,  33-300 NOWY S¥CZ;Odczyt systemowy;70180772;5,90322E+17;Energia czynna strefa II
+09.04.2022;304;kWh;09.02.2022;2868 kWh;2564 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 1,  33-300 NOWY S¥CZ;Odczyt systemowy;70180770;5,90322E+17;Energia czynna strefa II
+09.04.2022;305;kWh;09.02.2022;2945 kWh;2640 kWh;II;  PARTYZANTÓW 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70180746;5,90322E+17;Energia czynna strefa II
+09.04.2022;225;kWh;09.02.2022;12819 kWh;12594 kWh;II;  WESTERPLATTE 48,  33-300 NOWY S¥CZ;Odczyt systemowy;92385158;5,90322E+17;Energia czynna strefa II
+09.04.2022;282;kWh;09.02.2022;2782 kWh;2500 kWh;II;  MJR. HUBALA 2D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180768;5,90322E+17;Energia czynna strefa II
+09.04.2022;301;kWh;09.02.2022;2978 kWh;2677 kWh;II;BARSKA 12D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180576;5,90322E+17;Energia czynna strefa II
+09.04.2022;322;kWh;09.02.2022;3067 kWh;2745 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 19,  33-300 NOWY S¥CZ;Odczyt systemowy;70180581;5,90322E+17;Energia czynna strefa II
+09.04.2022;104;kWh;09.02.2022;1098 kWh;994 kWh;II;BARSKA 14,  33-300 NOWY S¥CZ;Odczyt systemowy;70180753;5,90322E+17;Energia czynna strefa II
+09.04.2022;109;kWh;09.02.2022;1105 kWh;996 kWh;II;  MJR. HUBALA 4,  33-300 NOWY S¥CZ;Odczyt systemowy;70180738;5,90322E+17;Energia czynna strefa II
+09.04.2022;176;kWh;09.02.2022;1580 kWh;1404 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 44D,  33-300 NOWY S¥CZ;Odczyt systemowy;70178748;5,90322E+17;Energia czynna strefa II
+09.04.2022;285;kWh;09.02.2022;2747 kWh;2462 kWh;II;  MJR. HUBALA 3B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180577;5,90322E+17;Energia czynna strefa II
+09.04.2022;116;kWh;09.02.2022;1203 kWh;1087 kWh;II;BARSKA 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70180575;5,90322E+17;Energia czynna strefa II
+09.04.2022;313;kWh;09.02.2022;3012 kWh;2699 kWh;II;  MJR. HUBALA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180583;5,90322E+17;Energia czynna strefa II
+09.04.2022;152;kWh;09.02.2022;1499 kWh;1347 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 15B,  33-300 NOWY S¥CZ;Odczyt systemowy;70180578;5,90322E+17;Energia czynna strefa II
+09.04.2022;197;kWh;09.02.2022;1954 kWh;1757 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 23,  33-300 NOWY S¥CZ;Odczyt systemowy;95443960;5,90322E+17;Energia czynna strefa II
+09.04.2022;113;kWh;09.02.2022;1193 kWh;1080 kWh;II;  MJR. HUBALA 7,  33-300 NOWY S¥CZ;Odczyt systemowy;70180741;5,90322E+17;Energia czynna strefa II
+09.04.2022;348;kWh;09.02.2022;3281 kWh;2933 kWh;II;  MJR. HUBALA 5D,  33-300 NOWY S¥CZ;Odczyt systemowy;70180740;5,90322E+17;Energia czynna strefa II
+09.04.2022;118;kWh;09.02.2022;1203 kWh;1085 kWh;II;ALEJE MJR. HENRYKA SUCHARSKIEGO 46,  33-300 NOWY S¥CZ;Odczyt systemowy;2040482;5,90322E+17;Energia czynna strefa II
+09.04.2022;105;kWh;09.02.2022;1105 kWh;1000 kWh;II;BARSKA 8,  33-300 NOWY S¥CZ;Odczyt systemowy;70180758;5,90322E+17;Energia czynna strefa II
+09.04.2022;179;kWh;09.02.2022;1808 kWh;1629 kWh;II;  BATALIONÓW CH£OPSKICH 10,  33-300 NOWY S¥CZ;Odczyt systemowy;70301246;5,90322E+17;Energia czynna strefa II
+09.04.2022;105;kWh;09.02.2022;1151 kWh;1046 kWh;II;  BATALIONÓW CH£OPSKICH 16,  33-300 NOWY S¥CZ;Odczyt systemowy;70178616;5,90322E+17;Energia czynna strefa II

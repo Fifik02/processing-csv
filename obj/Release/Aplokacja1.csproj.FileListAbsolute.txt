@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Apka\Aplokacja1\bin\Release\Aplokacja1.exe.config
+C:\Users\admin\Desktop\Apka\Aplokacja1\bin\Release\Aplokacja1.exe
+C:\Users\admin\Desktop\Apka\Aplokacja1\bin\Release\Aplokacja1.pdb
+C:\Users\admin\Desktop\Apka\Aplokacja1\obj\Release\Aplokacja1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Apka\Aplokacja1\obj\Release\Aplokacja1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Apka\Aplokacja1\obj\Release\Aplokacja1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Apka\Aplokacja1\obj\Release\Aplokacja1.exe
+C:\Users\admin\Desktop\Apka\Aplokacja1\obj\Release\Aplokacja1.pdb
